@@ -1,0 +1,22 @@
+Unable to calculate incremental build state. Instead running full rebuild. Ensure Git is present.
+
+Invoking: tsdx build 
+
+@rollup/plugin-replace: 'preventAssignment' currently defaults to false. It is recommended to set this option to `true`, as the next major version will default this option to `true`.
+@rollup/plugin-replace: 'preventAssignment' currently defaults to false. It is recommended to set this option to `true`, as the next major version will default this option to `true`.
+⠙ Creating entry file  99%                 2027ms, estimated 955ms
+✓ Creating entry file 2 secs
+⠙ Building modules  3%                  0.2s, estimated 5.4s
+⠹ Building modules  10%                 0.5s, estimated 5.4s
+⠸ Building modules  14%                 0.8s, estimated 5.4s
+⠼ Building modules  18%                 1.0s, estimated 5.4s
+⠴ Building modules  55%                 2.9s, estimated 5.4s
+⠦ Building modules  58%                 3.1s, estimated 5.4s
+⠧ Building modules  77%                 4.1s, estimated 5.4s
+⠇ Building modules  89%                 4.8s, estimated 5.4s
+⠏ Building modules  90%                 4.8s, estimated 5.4s
+⠋ Building modules  92%                 4.9s, estimated 5.4s
+⠙ Building modules  93%                 5.0s, estimated 5.4s
+⠹ Building modules  95%                 5.1s, estimated 5.4s
+⠸ Building modules  96%                 5.2s, estimated 5.4s
+✓ Building modules 5.2 secs
