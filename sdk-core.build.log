@@ -4,19 +4,19 @@ Invoking: tsdx build
 
 @rollup/plugin-replace: 'preventAssignment' currently defaults to false. It is recommended to set this option to `true`, as the next major version will default this option to `true`.
 @rollup/plugin-replace: 'preventAssignment' currently defaults to false. It is recommended to set this option to `true`, as the next major version will default this option to `true`.
-⠙ Creating entry file  99%                 2027ms, estimated 955ms
-✓ Creating entry file 2 secs
-⠙ Building modules  3%                  0.2s, estimated 5.4s
-⠹ Building modules  10%                 0.5s, estimated 5.4s
-⠸ Building modules  14%                 0.8s, estimated 5.4s
-⠼ Building modules  18%                 1.0s, estimated 5.4s
-⠴ Building modules  55%                 2.9s, estimated 5.4s
-⠦ Building modules  58%                 3.1s, estimated 5.4s
-⠧ Building modules  77%                 4.1s, estimated 5.4s
-⠇ Building modules  89%                 4.8s, estimated 5.4s
-⠏ Building modules  90%                 4.8s, estimated 5.4s
-⠋ Building modules  92%                 4.9s, estimated 5.4s
-⠙ Building modules  93%                 5.0s, estimated 5.4s
-⠹ Building modules  95%                 5.1s, estimated 5.4s
-⠸ Building modules  96%                 5.2s, estimated 5.4s
-✓ Building modules 5.2 secs
+⠙ Creating entry file  99%                 2.1s, estimated 1.9s
+✓ Creating entry file 2.1 secs
+⠙ Building modules  5%                  0.2s, estimated 5.3s
+⠹ Building modules  12%                 0.7s, estimated 5.3s
+⠸ Building modules  16%                 0.9s, estimated 5.3s
+⠼ Building modules  20%                 1.1s, estimated 5.3s
+⠴ Building modules  57%                 3.0s, estimated 5.3s
+⠦ Building modules  62%                 3.3s, estimated 5.3s
+⠧ Building modules  85%                 4.5s, estimated 5.3s
+⠇ Building modules  91%                 4.9s, estimated 5.3s
+⠏ Building modules  92%                 4.9s, estimated 5.3s
+⠋ Building modules  94%                 5.0s, estimated 5.3s
+⠙ Building modules  95%                 5.1s, estimated 5.3s
+⠹ Building modules  97%                 5.2s, estimated 5.3s
+⠸ Building modules  98%                 5.3s, estimated 5.3s
+✓ Building modules 5.3 secs
