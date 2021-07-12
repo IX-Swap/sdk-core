@@ -4,17 +4,17 @@ Invoking: tsdx build
 
 @rollup/plugin-replace: 'preventAssignment' currently defaults to false. It is recommended to set this option to `true`, as the next major version will default this option to `true`.
 @rollup/plugin-replace: 'preventAssignment' currently defaults to false. It is recommended to set this option to `true`, as the next major version will default this option to `true`.
-⠙ Creating entry file
-✓ Creating entry file 2.6 secs
-⠙ Building modules
-⠹ Building modules
-⠸ Building modules
-⠼ Building modules
-⠴ Building modules
-⠦ Building modules
-⠧ Building modules
-⠇ Building modules
-⠏ Building modules
-⠋ Building modules
-⠙ Building modules
-✓ Building modules 8 secs
+⠙ Creating entry file  99%                 2.7s, estimated 2.6s
+✓ Creating entry file 2.7 secs
+⠙ Building modules  3%                  0.2s, estimated 8.0s
+⠹ Building modules  12%                 1.0s, estimated 8.0s
+⠸ Building modules  19%                 1.6s, estimated 8.0s
+⠼ Building modules  24%                 1.9s, estimated 8.0s
+⠴ Building modules  58%                 4.6s, estimated 8.0s
+⠦ Building modules  66%                 5.3s, estimated 8.0s
+⠧ Building modules  71%                 5.7s, estimated 8.0s
+⠇ Building modules  72%                 5.8s, estimated 8.0s
+⠏ Building modules  73%                 5.9s, estimated 8.0s
+⠋ Building modules  74%                 6.0s, estimated 8.0s
+⠙ Building modules  75%                 6.0s, estimated 8.0s
+✓ Building modules 6.1 secs
